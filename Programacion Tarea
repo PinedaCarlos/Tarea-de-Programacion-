@@ -1,6 +1,6 @@
 class maquinaria:
     def___init___(self):
-    self.precio= 122,000.00
+    self.precio= 500,000.00
     print "nombre de la maquinaria"
    
    def hablar(self,mensaje):
