@@ -1,0 +1,20 @@
+class maquinaria:
+    def___init___(self):
+    self.precio= 122,000.00
+    print "nombre de la maquinaria"
+   
+   def hablar(self,mensaje):
+   print mensaje
+ 
+ excavadora = maquinaria()
+ compactadora = maquinaira()
+ 
+ print "La excavadora vale", nombre de la maquinaria.precio
+ print "La compactadora vale", nombre de la maquinaria.precio
+ 
+ excavadora.hablar("Vale")
+ 
+ compactadora.hablar("vale)
+ 
+   
+   
