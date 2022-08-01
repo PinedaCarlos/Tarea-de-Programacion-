@@ -14,7 +14,7 @@ class maquinaria:
  
  excavadora.hablar("Vale")
  
- compactadora.hablar("vale)
+ compactadora.hablar("vale")
  
    
    
